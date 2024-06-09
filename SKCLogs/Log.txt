@@ -1,0 +1,19 @@
+commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 12:14:31 2024 +0200
+
+    added SKCLogs folder
+
+commit 69411152cadceca41b77b21461954bc77346c0e7
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:30:49 2024 +0200
+
+    added Log.txt
+
+commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:20:26 2024 +0200
+
+    init
+    
+    init
